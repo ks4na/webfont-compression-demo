@@ -3,6 +3,8 @@
 > 使用 [font-spider](https://github.com/aui/font-spider) 库来作压缩处理。  
 > 使用 [tesla font](https://www.dafont.com/tesla.font) 作为示例字体。
 
+<iframe src="https://ks4na.github.io/webfont-compression-demo/" style="border: 0; width: 100%; min-width: 500px; height: 400px;"></iframe>
+
 ## 下载字体
 
 链接： [tesla font](https://www.dafont.com/tesla.font)
